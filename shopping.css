@@ -192,9 +192,8 @@ hr{
   width: 100%;
   display: block;
   position: fixed;
-  background-color: #964B00;
   top: 0;
-}  
+}
 
 .one a {
   float: center;
@@ -209,3 +208,4 @@ hr{
 .one a:hover {
   background-color: #ddd;
 }
+
