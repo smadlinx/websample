@@ -1,0 +1,65 @@
+body {
+  background: linear-gradient(to bottom right, #b8a399, #fff8e7);
+  margin: auto;
+  font-size: 60px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #24344D;
+  
+}
+.card {
+  box-shadow: 0px 10px 20px #1687d933;
+  width: 40%;
+  margin: auto;
+  text-align: center;
+  font-family: Cursive;
+  background: white;
+}
+.price {
+  color: #231709;
+  font-size: 30px;
+  font-family: Verdana;
+}
+
+.texttext {
+  color: #24344D;
+  font-size: 15px;
+  font-family: Verdana
+}
+
+.card button {
+  border: none;
+  outline: 0;
+  padding: 12px;
+  color: white;
+  background-color: #654321;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+.card button:hover {
+  opacity: 0.7;
+}
+
+.one {
+  margin: auto;
+  width: 100%;
+  display: block;
+  position: fixed;
+  background-color: #964B00;
+  top: 0;
+  
+
+.one a {
+  float: center;
+  text-align: center;
+  padding: 12px 80px;
+  font-size: 23px;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 20%;
+}
+
+.one a:hover {
+  background-color: #ddd;
+}
